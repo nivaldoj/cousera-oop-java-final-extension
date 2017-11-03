@@ -1,6 +1,8 @@
 # Airport Map - Extension Code Final Project
 
-<center>![image](https://github.com/nivaldoj/cousera-oop-java-final-extension/blob/master/img/gif1.gif?raw=true)</center>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/nivaldoj/cousera-oop-java-final-extension/blob/master/img/gif1.gif?raw=true">
+</p>
 
 This is a source code for extension (final project) of 'Oriented Object Programming with Java' (https://pt.coursera.org/learn/object-oriented-java) course. It uses some initial code and dataset given by instructors of course.
 
