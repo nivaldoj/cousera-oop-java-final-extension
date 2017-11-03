@@ -23,4 +23,4 @@ The project consists in a map with all airports from a dataset, and show routes 
 
 This extension project was made using provided starter code by instructors of course. Initial authors has been credited on each of source files, i've just modified some of code to achive goals of extension and final grading. 
 
-The airplane icon used for represent each airports on the software was made by Google from FlatIcon.
+The airplane icon used for represent each airports on the software was made by Google, and obtained from FlatIcon.
